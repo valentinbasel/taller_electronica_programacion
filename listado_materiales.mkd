@@ -1,0 +1,22 @@
+# Materiales
+
+## Kit 
+
+Cada kit  equivale a 1 PCB armado, tiene los elementos necesarios para poder fabricar una placa "pinguino-like". La recomendación es que se trabaje entre 2 y 3 personas por placa.
+
+### Componentes:
+
+- 1 pcb virgenes 10x10cm
+- 1 pics 18f2550
+- 1 cristales 20 mhz
+- 1 conectores usb tipo b
+- 1 cap 220 nf
+- 2 cap 22 pF
+- 1 cap electroliticos 100 uF
+- 1 push button (boton de reset)
+- 2 leds
+- 1 res 1 k
+- 1 res 470 ohms
+- 1 borneras
+- 1 socalos 14x2
+- 1 tira de pines macho
