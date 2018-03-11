@@ -3,7 +3,7 @@
 Las herramientas son fundamentales para poder fabricar un pcb, aunque muchas pueden ser remplazadas (en ves de usar un anafe eléctrico, se puede calentar el cloruro con la misma plancha con la que pegamos el dibujo en el PCB) y algunos son de uso común (como el cloruro ferrico y el des soldador), sin embargo, hay herramientas que se recomienda que estén en cada grupo para asi evitar perdidas de tiempo y posibles errores.
 Las siguientes listas están divididas en herramientas de uso común y herramientas de cada Kit (herramientas que debería haber por cada kit que se quiera construir):
 
-##comunes:
+## Comunes:
 
 - Dremel.
 - cloruro ferrico.
